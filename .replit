@@ -1,0 +1,1 @@
+run = "chmod +x main.fish && fish --command 'fishtape main.tests.fish' && ./main.fish -v"
