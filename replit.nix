@@ -7,13 +7,9 @@
     pkgs.elvish
     pkgs.bash_5
 
-    # Unit test tools
-    pkgs.bats
-
     # Unix tools
     pkgs.tldr
     pkgs.tree
     pkgs.bc
-    pkgs.shellcheck
   ];
 }
